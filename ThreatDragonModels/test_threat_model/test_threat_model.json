@@ -1,0 +1,15 @@
+{
+  "summary": {
+    "title": "test_threat_model"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "test_diagram_1",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
